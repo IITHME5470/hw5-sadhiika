@@ -1,0 +1,4 @@
+Serial: 0.153200 seconds per time step
+2x2 processors: 0.042300 seconds per time step
+2x4 processors: 0.021500 seconds per time step
+4x4 processors: 0.011200 seconds per time step
